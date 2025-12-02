@@ -368,11 +368,7 @@ h1{
    
 }
 
-@media (max-width: 412px){ /*SE QUE ESTA MEDIA EN PC SE VE MAL LA IMG EN EL HERO, PERO EN CELULAR SE VE BIEN*/
-    .hero-section{
-        height: 48vh;
-    }
-}
+
 
 @media (max-width: 368px){
     .hero-content h2 {
