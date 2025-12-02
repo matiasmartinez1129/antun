@@ -347,6 +347,8 @@ h1{
         text-decoration: none;
         color: #fff;
     }
+
+    
 }
 
 @media (max-width: 618px){
@@ -362,6 +364,13 @@ h1{
     .hero-content img{
         width: 280px;
         top: 158px;
+    }
+   
+}
+
+@media (max-width: 412px){ /*SE QUE ESTA MEDIA EN PC SE VE MAL LA IMG EN EL HERO, PERO EN CELULAR SE VE BIEN*/
+    .hero-section{
+        height: 48vh;
     }
 }
 
